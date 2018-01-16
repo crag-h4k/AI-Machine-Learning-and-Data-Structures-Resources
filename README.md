@@ -1,6 +1,6 @@
 # AI/Machine Learning and Data Structures Tutorials
 
-### I'm working on a list of resources and tutorials for learning about data structures, algorithms, and AI/Machine Learning.
+### I'm working on a list of resources and tutorials for learning about data structures, algorithms, data science, and AI/Machine Learning.
 
 
 ### Data Structures
@@ -21,6 +21,7 @@ B+ Tree
 
 [Applied Predictive Modeling with Python](https://github.com/LeiG/Applied-Predictive-Modeling-with-Python)
 
+[Tensor Flow Tutorials](https://www.tensorflow.org/tutorials/)
 
 ### General Data Science
 
