@@ -1,6 +1,6 @@
-AI/Machine Learning and Data Structures
+# AI/Machine Learning and Data Structures
 
-Below are listed resources and tutorials for learning about data structures, algorithms, and AI/Machine Learning.
+### I'm working on a list of resources and tutorials for learning about data structures, algorithms, and AI/Machine Learning.
 
 B+ Tree
   [Part 1:](https://www.geeksforgeeks.org/b-tree-set-1-introduction-2/)
