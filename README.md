@@ -1,4 +1,4 @@
-# AI/Machine Learning and Data Structures
+# AI/Machine Learning and Data Structures Tutorials
 
 ### I'm working on a list of resources and tutorials for learning about data structures, algorithms, and AI/Machine Learning.
 
