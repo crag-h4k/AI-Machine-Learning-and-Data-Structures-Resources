@@ -9,6 +9,8 @@ B+ Tree
 
 [Basic Neural Network - Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 
+[Basic Neural Network with Keras - Python](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+
 [Basic Macnine Learning Project - Python](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 
 iPyParallel
