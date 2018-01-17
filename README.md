@@ -11,6 +11,8 @@ B+ Tree
 
 ### AI/Machine Learning
 
+[Machine Learning Exercises in Python(includes Simple, Multivariate, Logistic, Multivariate Logistic, Linear Regression Models, Neural Networks, Support Vector Machines, K-Means Clustering, PCA, and Anomaly Detection)](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/)
+
 [Basic Neural Network - Python](https://iamtrask.github.io/2015/07/12/basic-python-network/)              .
 
 [Basic Neural Network with Keras - Python](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
